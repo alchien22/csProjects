@@ -1,0 +1,15 @@
+Jane Eyre
+36 2 2 1 2 1
+jeyre@gmail.com
+Charlotte Bronte
+24 2 2 1 1 1
+cbronte@gmail.com
+Calliope Cern
+21 2 1 1 1 1
+ccern@gmail.com
+Christopher Paolini
+27 1 1 2 1 1
+cpaolini@outlook.com
+Matt Haig
+42 1 2 1 2 2
+mhaig@yahoo.com
