@@ -1,10 +1,4 @@
-//
-//  main.cpp
-//  14E
-//
 //  Created by Alex Chien on 7/26/22.
-//
-//  I completed both bonuses
 
 #include <iostream>
 #include <iomanip>
