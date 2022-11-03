@@ -1,9 +1,3 @@
-//
-//  Final.cpp
-//  Final
-//
-//  Created by Alex Chien on 7/27/22.
-//
 //  I decided to make the debugging display a part of the menu so that I could check if changes were updating accordingly if any were made to the profile
 //  Video: https://youtu.be/Kx7dMosFsR0
 
